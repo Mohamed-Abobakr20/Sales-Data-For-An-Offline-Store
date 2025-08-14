@@ -4,14 +4,14 @@
 - This is an offline store in India.
 - Profit margin is 10%.
 - This store sells many products in different categories such as :
-  1.  Electronics
-  2.  Clothing
-  3.  Accessories
-  4.  Bags
-  5.  Personal Care
-  6.  Kitchenware
-  7.  Footwear
-  8.  Home Appliances
+  - Electronics
+  - Clothing
+  - Accessories
+  - Bags
+  - Personal Care
+  - Kitchenware
+  - Footwear
+  - Home Appliances
 - This store need answers for some questions.
   - Top / Bottom 5 product by ( Sales - Profit - Quantity ) Sold.
   - How do sales trends vary over time (daily, monthly, quarterly, annually) ?
