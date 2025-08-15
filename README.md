@@ -19,6 +19,12 @@
   - Average discount offered in each discount category.
   - Total number of orders.
   - Show sales by different cities.
+  -  Compare ( sales - profit - quantity ) sold between 
+any two periods selected by the user.
+  - Show ( Sales - Profit - Discount - Net Sales - All )
+ remaining fields for each order that could be filtered using 
+visual filters (Product - Date - Customer - Promotion 
+Categories)
 
 ## Data Cleaning
 - Verified correct data types
